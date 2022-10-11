@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec737a2e-f4ef-43f6-b9b1-6eb10acfb64b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/pers/LazySingleton.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -46,7 +46,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
   <component name="RunManager">
@@ -72,6 +72,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665497281960</updated>
     </task>
+    <task id="LOCAL-00001" summary="[Tech] Update gitignore">
+      <created>1665501922896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665501922896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Feat] Add Singleton">
+      <created>1665502013769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665502013769</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +105,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Tech] Update gitignore" />
+    <MESSAGE value="[Tech] Add Singleton" />
+    <MESSAGE value="Add Singleton" />
+    <MESSAGE value="[Feat] Add Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Feat] Add Singleton" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
