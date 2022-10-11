@@ -1,7 +1,7 @@
+import pers.Singleton
+
+// 在Kotlin中使用Singleton
 fun main(args: Array<String>) {
     println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    Singleton.doSomething() // 像调用静态方法一样，调用单例类中的方法
 }
