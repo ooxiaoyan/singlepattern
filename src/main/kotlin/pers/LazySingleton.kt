@@ -1,5 +1,8 @@
 package pers
 
+/**
+ * 线程安全的懒汉式单例
+ */
 class LazySingleton private constructor() {
 
     companion object {
